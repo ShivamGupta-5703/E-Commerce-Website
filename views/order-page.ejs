@@ -1,0 +1,33 @@
+<% layout('layouts/boilerplate') -%>
+
+<section class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="card mt-5">
+        <div class="card-body">
+          <h1 class="display-4 text-center mb-4">Order Confirmation</h1>
+          <!-- Add any order details or messages here -->
+          <p class="lead text-center">Thank you for your order, <%= user.username %>!</p>
+          <hr>
+          <div class="mb-3">
+            <h5 class="mb-3">Order Details:</h5>
+            <!-- Display order details here -->
+            <p><strong>Order Number:</strong> <%= new Date().getTime() %></p> <!-- Just an example of a unique order number -->
+            <p><strong>Total Amount:</strong> $<%= totalAmount %></p>
+            <p><strong>Products:</strong></p>
+            <ul>
+              <% user.cart.forEach(function(product) { %>
+                <li><%= product.name %> - $<%= product.price %></li>
+              <% }); %>
+            </ul>
+            <!-- Add more order details as needed -->
+          </div>
+          <div class="text-center">
+            <!-- Continue button -->
+            <a href="/continue" class="btn btn-primary">Continue Shopping</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
