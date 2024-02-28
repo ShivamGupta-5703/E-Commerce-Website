@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce-v1",
+  "name": "ecommerce",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./app.js"
   },
-  "author": "samarth vohra",
+  "author": "shivam gupta",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
