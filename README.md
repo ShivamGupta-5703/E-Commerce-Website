@@ -4,7 +4,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="https://github.com/ShivamGupta-5703/Threads/assets/134150130/07d3115c-5e28-46c7-8624-a484cb43fe0f" alt="Project Banner">
+      <img src="https://github.com/ShivamGupta-5703/E-Commerce-Website/assets/134150130/f59d106e-031f-4b69-adf8-eb57fe6390b2" alt="Project Banner">
     </a>
   <br />
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Joi-black?style=for-the-badge&logoColor=white&logo=joi&color=EF5350" alt="Joi" />
 </div>
 
-  <h3 align="center">A full stack Threads Clone</h3>
+  <h3 align="center">A full stack Shopping cart E-Commerce Website</h3>
 </div>
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -38,49 +38,17 @@ A full-stack website utilizing HTML, CSS, Node.js, Bootstrap, EJS, and MongoDB. 
 
 ## <a name="features">🔋 Features</a>
 
-👉 1. **Authentication**: Authentication using Clerk for email, password, and social logins (Google and GitHub) with a comprehensive profile management system.
+👉 1. **Database Management with MongoDB:** Utilizing MongoDB for efficient storage and management of user data, product details, and transaction records.
+    2. **User Authentication:** Users can register, login, and authenticate using Passport.js, ensuring secure access to the platform's features.
+    3. **Responsive Design with Bootstrap and CSS:** Employing Bootstrap and CSS for responsive and visually appealing layouts, ensuring seamless user experience across devices.
+    4. **Dynamic Frontend Rendering with EJS:** Utilizing EJS for dynamic rendering of frontend elements, enabling interactive user interfaces for product browsing and purchasing.
+    5. **Form Validation with Joi:** Implementing Joi for form validation, ensuring data integrity and preventing invalid submissions during user interactions.
+    6. **Seller Product Management:** Sellers can manage their product listings by adding, editing, and deleting items, providing them control over their inventory.
+    7. **Product Catalog and Browsing:** Both sellers and buyers can browse through available products, viewing detailed information and images to make informed decisions.
+    8. **Shopping Cart Functionality:** Users can add items to their carts, review their selections, and proceed with purchases, enhancing the shopping experience.
+    9. **Transaction Management:** Handling transactions securely, ensuring smooth processing of payments and order fulfillment for both buyers and sellers.
+    10. **Role-based Access Control with Passport.js:** Implementing Passport.js for role-based access control, distinguishing between sellers and buyers and providing appropriate permissions.
 
-👉 2. **Visually Appealing Home Page**: A visually appealing home page showcasing the latest threads for an engaging user experience.
-
-👉 3. **Create Thread Page**: A dedicated page for users to create threads, fostering community engagement
-
-👉 4. **Commenting Feature**: A commenting feature to facilitate discussions within threads.
-
-👉 5. **Nested Commenting**: Commenting system with nested threads, providing a structured conversation flow.
-
-👉 6. **User Search with Pagination**: A user search feature with pagination for easy exploration and discovery of other users.
-
-👉 7. **Activity Page**: Display notifications on the activity page when someone comments on a user's thread, enhancing user engagement.
-
-👉 8. **Profile Page**: User profile pages for showcasing information and enabling modification of profile settings.
-
-👉 9. **Create and Invite to Communities**: Allow users to create new communities and invite others using customizable template emails.
-
-👉 10. **Community Member Management**: A user-friendly interface to manage community members, allowing role changes and removals.
-
-👉 11. **Admin-Specific Community Threads**: Enable admins to create threads specifically for their community.
-
-👉 12. **Community Search with Pagination**: A community search feature with pagination for exploring different communities.
-
-👉 13. **Community Profiles**: Display community profiles showcasing threads and members for a comprehensive overview.
-
-👉 14. **Blazing-Fast Performance**: Optimal performance and instantaneous page switching for a seamless user experience.
-
-👉 15. **Server Side Rendering**: Utilize Next.js with Server Side Rendering for enhanced performance and SEO benefits.
-
-👉 16. **MongoDB with Complex Schemas**: Handle complex schemas and multiple data populations using MongoDB.
-
-👉 17. **File Uploads with UploadThing**: File uploads using UploadThing for a seamless media sharing experience.
-
-👉 18. **Real-Time Events Listening**: Real-time events listening with webhooks to keep users updated.
-
-👉 19. **Middleware, API Actions, and Authorization**: Utilize middleware, API actions, and authorization for robust application security.
-
-👉 20. **Next.js Layout Route Groups**: New Next.js layout route groups for efficient routing
-
-👉 21. **Data Validation with Zod**: Data integrity with data validation using Zod
-
-👉 22. **Form Management with React Hook Form**: Efficient management of forms with React Hook Form for a streamlined user input experience.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -97,8 +65,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-https://github.com/ShivamGupta-5703/Threads.git
-cd threads
+https://github.com/ShivamGupta-5703/E-Commerce-Website.git
 ```
 
 **Installation**
