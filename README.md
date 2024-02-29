@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/-Shadcn_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
     <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=zod&color=3E67B1" alt="zod" />
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logoColor=white&logo=javascript&color=3178C6" alt="javascript" />
+    <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=3178C6" alt="javascript" />
   </div>
 
   <h3 align="center">A full stack Threads Clone</h3>
@@ -23,20 +25,17 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A full stack Threads clone using Next.js 14+ with  user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.  
-
+A full-stack website utilizing HTML, CSS, Node.js, Bootstrap, EJS, and MongoDB. The platform allows users to register as sellers or buyers. Sellers can manage their products by adding, editing, and deleting items. Both sellers and buyers can browse through available products, add items to their carts, and proceed with purchases.
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
+- Node.js
 - MongoDB
-- Shadcn UI
-- TailwindCSS
-- Clerk
-- Webhooks
-- Serverless APIs
-- React Hook Form
-- Zod
-- TypeScript
+- Bootstrap
+- CSS
+- Java Script
+- EJS
+- Passport.js
+- Joi
 
 ## <a name="features">🔋 Features</a>
 
