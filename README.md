@@ -8,17 +8,16 @@
     </a>
   <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=6C47FF" alt="clerk" />
-    <img src="https://img.shields.io/badge/-Shadcn_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
-    <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=zod&color=3E67B1" alt="zod" />
-    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logoColor=white&logo=javascript&color=3178C6" alt="javascript" />
-    <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=3178C6" alt="javascript" />
-  </div>
+<div>
+  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logoColor=white&logo=bootstrap&color=563D7C" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-EJS-black?style=for-the-badge&logoColor=white&logo=ejs&color=394385" alt="EJS" />
+  <img src="https://img.shields.io/badge/-Passport.js-black?style=for-the-badge&logoColor=white&logo=passport&color=34E27A" alt="Passport.js" />
+  <img src="https://img.shields.io/badge/-Joi-black?style=for-the-badge&logoColor=white&logo=joi&color=EF5350" alt="Joi" />
+</div>
 
   <h3 align="center">A full stack Threads Clone</h3>
 </div>
