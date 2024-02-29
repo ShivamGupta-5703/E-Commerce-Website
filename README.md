@@ -38,16 +38,16 @@ A full-stack website utilizing HTML, CSS, Node.js, Bootstrap, EJS, and MongoDB. 
 
 ## <a name="features">🔋 Features</a>
 
-👉 1. **Database Management with MongoDB:** Utilizing MongoDB for efficient storage and management of user data, product details, and transaction records.
-    2. **User Authentication:** Users can register, login, and authenticate using Passport.js, ensuring secure access to the platform's features.
-    3. **Responsive Design with Bootstrap and CSS:** Employing Bootstrap and CSS for responsive and visually appealing layouts, ensuring seamless user experience across devices.
-    4. **Dynamic Frontend Rendering with EJS:** Utilizing EJS for dynamic rendering of frontend elements, enabling interactive user interfaces for product browsing and purchasing.
-    5. **Form Validation with Joi:** Implementing Joi for form validation, ensuring data integrity and preventing invalid submissions during user interactions.
-    6. **Seller Product Management:** Sellers can manage their product listings by adding, editing, and deleting items, providing them control over their inventory.
-    7. **Product Catalog and Browsing:** Both sellers and buyers can browse through available products, viewing detailed information and images to make informed decisions.
-    8. **Shopping Cart Functionality:** Users can add items to their carts, review their selections, and proceed with purchases, enhancing the shopping experience.
-    9. **Transaction Management:** Handling transactions securely, ensuring smooth processing of payments and order fulfillment for both buyers and sellers.
-    10. **Role-based Access Control with Passport.js:** Implementing Passport.js for role-based access control, distinguishing between sellers and buyers and providing appropriate permissions.
+  1. **Database Management with MongoDB:** Utilizing MongoDB for efficient storage and management of user data, product details, and transaction records.
+  2. **User Authentication:** Users can register, login, and authenticate using Passport.js, ensuring secure access to the platform's features.
+  3. **Responsive Design with Bootstrap and CSS:** Employing Bootstrap and CSS for responsive and visually appealing layouts, ensuring seamless user experience across devices.
+  4. **Dynamic Frontend Rendering with EJS:** Utilizing EJS for dynamic rendering of frontend elements, enabling interactive user interfaces for product browsing and purchasing.
+  5. **Form Validation with Joi:** Implementing Joi for form validation, ensuring data integrity and preventing invalid submissions during user interactions.
+  6. **Seller Product Management:** Sellers can manage their product listings by adding, editing, and deleting items, providing them control over their inventory.
+  7. **Product Catalog and Browsing:** Both sellers and buyers can browse through available products, viewing detailed information and images to make informed decisions.
+  8. **Shopping Cart Functionality:** Users can add items to their carts, review their selections, and proceed with purchases, enhancing the shopping experience.
+  9. **Transaction Management:** Handling transactions securely, ensuring smooth processing of payments and order fulfillment for both buyers and sellers.
+ 10. **Role-based Access Control with Passport.js:** Implementing Passport.js for role-based access control, distinguishing between sellers and buyers and providing appropriate permissions.
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
@@ -85,8 +85,6 @@ SECRET - Secret key for session.
 MONGODB_URL=
 SECRET=
 ```
-
-Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up for the corresponding websites on [MongoDB](https://www.mongodb.com/), [Clerk](https://clerk.com/), and [Uploadthing](https://uploadthing.com/). 
 
 **Running the Project**
 
